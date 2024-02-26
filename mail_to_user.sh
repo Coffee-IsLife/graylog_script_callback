@@ -1,6 +1,7 @@
 #!/bin/bash
 ##actual callback, called from argv_parser
 ### This script depends on the package "mutt" - but you can use whatever command you need 
+### by Coffee_is_life (https://github.com/Coffee-IsLife/)
 
 ###  EDIT REAL NAME in Mail-command
 ###  EDIT FROM ADDRESS in Mail-Command
