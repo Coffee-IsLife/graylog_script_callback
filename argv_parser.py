@@ -1,5 +1,6 @@
 #!/usr/bin/env python2
 ### argv_parser to read values from gralog-backlog  -  Needs to be located in graylog-script-dir
+### by Cofee_is_life (https://github.com/Coffee-IsLife/)
 
 from __future__ import print_function
 import json
